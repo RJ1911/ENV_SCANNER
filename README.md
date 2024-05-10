@@ -12,5 +12,10 @@ usage : node envScanner.js [directoryName] [Extra File Extensions]
 node envSanner.js "./src" mjs tsx
 ```
 
+##### To Do :
+change read and write to async read and write 
+currently only for node js project , make it viable for other projects like python and java
+add more custom options
+
 
 
